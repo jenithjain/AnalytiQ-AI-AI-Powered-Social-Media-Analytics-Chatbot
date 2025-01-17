@@ -18,12 +18,6 @@ Scalable Architecture: Designed to handle large volumes of social media data eff
 
 ⭐ Technologies Used
 
-Frontend:
-
-React.js for creating a dynamic and responsive user interface.
-
-Tailwind CSS for styling and layout.
-
 Backend:
 
 Langflow for orchestrating chatbot workflows.
