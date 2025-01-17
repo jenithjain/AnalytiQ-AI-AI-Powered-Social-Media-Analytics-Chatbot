@@ -27,3 +27,7 @@ Python for implementing core logic and integrating analytics tools.
 Database:
 
 AstraDB for storing and querying social media analytics data efficiently.
+
+Demo Video 
+
+https://github.com/user-attachments/assets/ce85e0ce-34ea-40be-95bc-b5820465ba3c
